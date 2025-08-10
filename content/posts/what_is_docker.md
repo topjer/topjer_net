@@ -1,6 +1,6 @@
 +++
-date = '2025-07-08T21:35:10+02:00'
-draft = true
+date = '2022-06-07T20:00:00+02:00'
+draft = false
 title = 'What is docker and why should you care?'
 +++
 
