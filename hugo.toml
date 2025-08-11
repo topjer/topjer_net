@@ -15,15 +15,27 @@ showReadingTime = true
 showShareButtons = false
 showPostNavLinks = true
 useHugoToc = true
-showToc = false
+showToc = true
 showPageNums = true
 tocopen = false
 ShowBreadCrumps = true
 hideSummary = false
-socialIcons = [{ name = "github", url = "https://github.com/topjer" }]
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/topjer"
+
+[[params.socialIcons]]
+name = "medium"
+url = "https://medium.com/@christopher-schmaeche"
+
+[[params.socialIcons]]
+name = "other"
+url = "https://topjer.substack.com/"
+title = "My Substack"
 
 [params.homeInfoParams]
-Title = ""
+Title = "Code Learn Grow"
 Content = "Enjoy digging through articles I have written in the past."
 
 [profileMode]
