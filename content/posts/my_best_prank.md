@@ -1,7 +1,7 @@
 +++
 date = '2021-06-21T20:00:00+02:00'
 draft = false
-title = 'My_best_prank'
+title = 'My best prank'
 tags = ['office life']
 +++
 
